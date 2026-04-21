@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-class Mahasiswa{
+class Mahasiswa{//blue print untuk membuat objek mahasiswa
     public :
     int nim;
     string nama;
@@ -12,7 +12,7 @@ class Mahasiswa{
         cout << "Nama : " << nama << endl;
         cout << "Nilai : " << nilai << endl;
     }
-};
+};// batas kelas
 
 int main(){
     Mahasiswa mhs1;
