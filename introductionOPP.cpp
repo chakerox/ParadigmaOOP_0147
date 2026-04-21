@@ -22,5 +22,3 @@ int main(){
 
     mhs1.printData();
 
-    return 0;
-}
