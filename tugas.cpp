@@ -24,7 +24,7 @@ int main(){
     elektronik.nama = "Laptop";
     elektronik.jumlah = 10;
     elektronik.kategori = "Elektronik";
-    elektronik.tanggalProduksi = "01-01-2024";
+    elektronik.tanggalProduksi = "2001-01-20";
     elektronik.tampilan();
 
     cout << endl;
@@ -32,7 +32,7 @@ int main(){
     nonelektronik.nama = "Meja";
     nonelektronik.jumlah = 5;
     nonelektronik.kategori = "Non Elektronik";
-    nonelektronik.tanggalProduksi = "15-02-2024";
+    nonelektronik.tanggalProduksi = "2015-02-24";
     nonelektronik.tampilan();
     return 0;
 }
